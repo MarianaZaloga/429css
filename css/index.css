@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+p {
+    color: blue;
+}
+#chose {
+    text-decoration: underline;
+}
+#color {
+    color: yellow;
+}
+.border {
+    border: 1px solid black;
+}
+* {
+    font-weight: bold;
+    font-style: italic;
+}
+div p {
+    color:white;
+    background-color: black;
+
+}
+p:hover {
+    transform: rotate(180deg);
+}
